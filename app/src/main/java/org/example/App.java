@@ -14,7 +14,7 @@ public class App {
 
         JFrame frame = new JFrame();
         frame.setLayout(new GridBagLayout());
-        frame.setMinimumSize(new Dimension(1000, 1000));
+        frame.setMinimumSize(new Dimension(800, 800));
         frame.setLocationRelativeTo(null);
 
         Board board = new Board();
