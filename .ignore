@@ -1,0 +1,58 @@
+
+# Ignore build directories
+/build/
+/target/
+/out/
+
+# Ignore IntelliJ IDEA files
+.idea/
+/*.iml
+*.iws
+
+# Ignore Eclipse files
+.project
+.classpath
+.settings/
+
+# Ignore NetBeans files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Ignore VS Code files
+.vscode/
+
+# Ignore Maven dependencies
+.mvn/
+**/mvnw
+**/mvnw.cmd
+**/target/
+
+# Ignore Gradle files
+.gradle/
+/**/build/
+/**/*.jar
+**/*.war
+**/*.ear
+**/gradle-app.setting
+
+# Ignore temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Java compiled files
+*.class
+
+# Ignore generated files (Javadoc, etc.)
+/doc/
+/docs/
